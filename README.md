@@ -18,6 +18,8 @@ A Challenge...
 4. Build your entry in that folder
 5. Pull request!
 
+When the deadline is reached, we will merge all the entries into master!
+
 ## Dates
 
 Submissions are accepted until 06/25/2013
