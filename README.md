@@ -17,3 +17,11 @@ A Challenge...
 3. Add a folder with your ChallengePost (or github) username at the base
 4. Build your entry in that folder
 5. Pull request!
+
+## Dates
+
+Submissions are accepted until 06/25/2013
+
+## Need help?
+
+Use the forum on impressjs.challengepost.com/discussions
